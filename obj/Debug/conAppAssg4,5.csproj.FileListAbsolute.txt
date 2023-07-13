@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day4\conAppAssg4,5\conAppAssg4,5\bin\Debug\conAppAssg4,5.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day4\conAppAssg4,5\conAppAssg4,5\bin\Debug\conAppAssg4,5.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day4\conAppAssg4,5\conAppAssg4,5\bin\Debug\conAppAssg4,5.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day4\conAppAssg4,5\conAppAssg4,5\obj\Debug\conAppAssg4,5.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day4\conAppAssg4,5\conAppAssg4,5\obj\Debug\conAppAssg4,5.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day4\conAppAssg4,5\conAppAssg4,5\obj\Debug\conAppAssg4,5.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day4\conAppAssg4,5\conAppAssg4,5\obj\Debug\conAppAssg4,5.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Day4\conAppAssg4,5\conAppAssg4,5\obj\Debug\conAppAssg4,5.pdb
